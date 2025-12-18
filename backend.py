@@ -38,7 +38,7 @@ def data_process(text):
     # Rs Rs. or INR space optional 1-2 digit,2-3digit,1-3digit dot 1-2 digit
     #?: is used for caturing and continueing the catpure if it not used it will immedidatly return the initally captured txt(Rs)
     log.info('Processing data to mask sensitive information and extract amount')
-    pattern = '(?:Rs\.?|INR)\s?\d{1,4}(?:,\d{2})*(?:,\d{3})*(?:\.\d+)?'
+    pattern = r'(?:Rs\.?|INR)\s?\d{1,4}(?:,\d{2})*(?:,\d{3})*(?:\.\d+)?'
     masked_sms = re.sub(r'\d{9,18}','Masked_Number',text)
     log.info('Masked sensitive information in the text and extracted amount')
     amt = re.search(pattern,text)
