@@ -35,4 +35,4 @@ USER user
 
 # Command to run the FastAPI app with Uvicorn
 #CMD ["Uvicorn","backend:app", "--host", "0.0.0.0", "--port", "8000","streamlit","run","frontend.py","--server.port","8501","--server.address","0.0.0.0","--server.websocket.enableCORS","false"]
-#CMD ["bash","./start.sh"]
+CMD ["bash","./start.sh"]
