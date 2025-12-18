@@ -2,5 +2,3 @@
 .venv/
 venv/
 .env
-./full_classification_pipeline.joblib
-./trained_model.joblib
