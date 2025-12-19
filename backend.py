@@ -31,7 +31,7 @@ loaded_model =  None
 def startup_event():
     global loaded_model
     log.info('loading model....')
-    loaded_model = joblib.load('full_classification_pipeline.joblib')
+    loaded_model = joblib.load('./full_classification_pipeline.joblib')
     log.info('model loaded successfully')
 
 def data_process(text):

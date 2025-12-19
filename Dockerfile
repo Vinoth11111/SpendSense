@@ -19,7 +19,8 @@ COPY --chown=user:user requirements.txt .
 RUN pip install --upgrade pip && \
     pip install --no-cache-dir -r requirements.txt
 
-
+COPY --chown=user:user full_classification_pipeline.joblib .
+# Copy the start script
 COPY --chown=user:user start.sh .
 # Copy the rest of the application code
 
