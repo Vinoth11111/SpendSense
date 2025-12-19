@@ -1,0 +1,700 @@
+2025-12-14 19:24:11,877-INFO-loading model....
+2025-12-14 19:24:11,877-INFO-model loaded
+2025-12-14 19:24:11,877-INFO-data received for prediction
+2025-12-14 19:24:11,877-INFO-converting the text into vector form....
+2025-12-14 19:24:11,878-INFO-Got string input for sms_text
+2025-12-14 19:24:11,880-INFO-Processing data to mask sensitive information and extract amount
+2025-12-14 19:24:11,880-INFO-Masked sensitive information in the text and extracted amount
+2025-12-14 19:24:11,880-INFO-Processing data to mask sensitive information and extract amount
+2025-12-14 19:24:11,880-INFO-Masked sensitive information in the text and extracted amount
+2025-12-14 19:24:11,881-INFO-Processing data to mask sensitive information and extract amount
+2025-12-14 19:24:11,881-INFO-Masked sensitive information in the text and extracted amount
+2025-12-14 19:24:11,881-INFO-Processing data to mask sensitive information and extract amount
+2025-12-14 19:24:11,881-INFO-Masked sensitive information in the text and extracted amount
+2025-12-14 19:24:11,881-INFO-Data Successfully  processed for prediction
+2025-12-14 19:25:45,850-INFO-loading model....
+2025-12-14 19:25:45,850-INFO-model loaded
+2025-12-14 19:25:45,850-INFO-data received for prediction
+2025-12-14 19:25:45,850-INFO-converting the text into vector form....
+2025-12-14 19:25:45,851-INFO-Got string input for sms_text
+2025-12-14 19:25:45,852-INFO-Processing data to mask sensitive information and extract amount
+2025-12-14 19:25:45,852-INFO-Masked sensitive information in the text and extracted amount
+2025-12-14 19:25:45,852-INFO-Processing data to mask sensitive information and extract amount
+2025-12-14 19:25:45,852-INFO-Masked sensitive information in the text and extracted amount
+2025-12-14 19:25:45,852-INFO-Processing data to mask sensitive information and extract amount
+2025-12-14 19:25:45,852-INFO-Masked sensitive information in the text and extracted amount
+2025-12-14 19:25:45,852-INFO-Processing data to mask sensitive information and extract amount
+2025-12-14 19:25:45,852-INFO-Masked sensitive information in the text and extracted amount
+2025-12-14 19:25:45,852-INFO-Data Successfully  processed for prediction
+2025-12-14 19:26:48,379-INFO-Will watch for changes in these directories: ['/Users/vinothkumar/Downloads/Finance_Management_System']
+2025-12-14 19:26:48,380-INFO-Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2025-12-14 19:26:48,380-INFO-Started reloader process [1723] using WatchFiles
+2025-12-14 19:26:49,078-INFO-Started server process [1726]
+2025-12-14 19:26:49,078-INFO-Waiting for application startup.
+2025-12-14 19:26:49,079-INFO-loading model....
+2025-12-14 19:26:50,774-INFO-model loaded successfully
+2025-12-14 19:26:50,774-INFO-Application startup complete.
+2025-12-14 19:26:57,393-INFO-loading model....
+2025-12-14 19:26:57,393-INFO-model loaded
+2025-12-14 19:26:57,393-INFO-data received for prediction
+2025-12-14 19:26:57,393-INFO-converting the text into vector form....
+2025-12-14 19:26:57,395-INFO-Got string input for sms_text
+2025-12-14 19:26:57,400-INFO-Processing data to mask sensitive information and extract amount
+2025-12-14 19:26:57,400-INFO-Masked sensitive information in the text and extracted amount
+2025-12-14 19:26:57,401-INFO-Processing data to mask sensitive information and extract amount
+2025-12-14 19:26:57,401-INFO-Masked sensitive information in the text and extracted amount
+2025-12-14 19:26:57,402-INFO-Processing data to mask sensitive information and extract amount
+2025-12-14 19:26:57,402-INFO-Masked sensitive information in the text and extracted amount
+2025-12-14 19:26:57,402-INFO-Processing data to mask sensitive information and extract amount
+2025-12-14 19:26:57,402-INFO-Masked sensitive information in the text and extracted amount
+2025-12-14 19:26:57,402-INFO-Data Successfully  processed for prediction
+2025-12-14 19:26:57,499-INFO-1 change detected
+2025-12-14 19:27:11,398-INFO-Shutting down
+2025-12-14 19:27:11,504-INFO-Waiting for application shutdown.
+2025-12-14 19:27:11,507-INFO-Application shutdown complete.
+2025-12-14 19:27:11,507-INFO-Finished server process [1726]
+2025-12-14 19:27:11,684-INFO-Stopping reloader process [1723]
+2025-12-14 19:30:25,709-INFO-Will watch for changes in these directories: ['/Users/vinothkumar/Downloads/Finance_Management_System']
+2025-12-14 19:30:25,710-INFO-Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2025-12-14 19:30:25,711-INFO-Started reloader process [1856] using WatchFiles
+2025-12-14 19:30:26,370-INFO-Started server process [1859]
+2025-12-14 19:30:26,370-INFO-Waiting for application startup.
+2025-12-14 19:30:26,371-INFO-loading model....
+2025-12-14 19:30:27,189-INFO-model loaded successfully
+2025-12-14 19:30:27,189-INFO-Application startup complete.
+2025-12-14 19:30:45,098-INFO-loading model....
+2025-12-14 19:30:45,099-INFO-model loaded
+2025-12-14 19:30:45,099-INFO-data received for prediction
+2025-12-14 19:30:45,099-INFO-converting the text into vector form....
+2025-12-14 19:30:45,099-INFO-Got list of string or file as a input for sms_text
+2025-12-14 19:30:45,102-INFO-Processing data to mask sensitive information and extract amount
+2025-12-14 19:30:45,103-INFO-Masked sensitive information in the text and extracted amount
+2025-12-14 19:30:45,103-INFO-Processing data to mask sensitive information and extract amount
+2025-12-14 19:30:45,103-INFO-Masked sensitive information in the text and extracted amount
+2025-12-14 19:30:45,104-INFO-Processing data to mask sensitive information and extract amount
+2025-12-14 19:30:45,105-INFO-Masked sensitive information in the text and extracted amount
+2025-12-14 19:30:45,105-INFO-Processing data to mask sensitive information and extract amount
+2025-12-14 19:30:45,105-INFO-Masked sensitive information in the text and extracted amount
+2025-12-14 19:30:45,105-INFO-Data Successfully  processed for prediction
+2025-12-14 19:30:45,114-INFO-Prediction time taken: 0.016134977340698242 seconds
+2025-12-14 19:30:45,115-INFO-Prediction successful,prediction: [0],probabilities: [0.87481035]
+2025-12-14 19:34:01,521-INFO-Shutting down
+2025-12-14 19:34:01,628-INFO-Waiting for application shutdown.
+2025-12-14 19:34:01,631-INFO-Application shutdown complete.
+2025-12-14 19:34:01,632-INFO-Finished server process [1859]
+2025-12-14 19:34:01,829-INFO-Stopping reloader process [1856]
+2025-12-14 19:35:08,832-INFO-HTTP Request: POST http://testserver/predict "HTTP/1.1 422 Unprocessable Entity"
+2025-12-14 19:35:39,503-INFO-HTTP Request: POST http://testserver/predict "HTTP/1.1 422 Unprocessable Entity"
+2025-12-14 19:36:20,899-INFO-loading model....
+2025-12-14 19:36:20,899-INFO-model loaded
+2025-12-14 19:36:20,899-INFO-data received for prediction
+2025-12-14 19:36:20,899-INFO-converting the text into vector form....
+2025-12-14 19:36:20,901-INFO-Got string input for sms_text
+2025-12-14 19:36:20,902-INFO-Processing data to mask sensitive information and extract amount
+2025-12-14 19:36:20,902-INFO-Masked sensitive information in the text and extracted amount
+2025-12-14 19:36:20,902-INFO-Processing data to mask sensitive information and extract amount
+2025-12-14 19:36:20,902-INFO-Masked sensitive information in the text and extracted amount
+2025-12-14 19:36:20,903-INFO-Processing data to mask sensitive information and extract amount
+2025-12-14 19:36:20,903-INFO-Masked sensitive information in the text and extracted amount
+2025-12-14 19:36:20,903-INFO-Processing data to mask sensitive information and extract amount
+2025-12-14 19:36:20,903-INFO-Masked sensitive information in the text and extracted amount
+2025-12-14 19:36:20,903-INFO-Data Successfully  processed for prediction
+2025-12-14 19:36:50,785-INFO-loading model....
+2025-12-14 19:36:50,785-INFO-model loaded
+2025-12-14 19:36:50,785-INFO-data received for prediction
+2025-12-14 19:36:50,785-INFO-converting the text into vector form....
+2025-12-14 19:36:50,785-INFO-Got string input for sms_text
+2025-12-14 19:36:50,786-INFO-Processing data to mask sensitive information and extract amount
+2025-12-14 19:36:50,786-INFO-Masked sensitive information in the text and extracted amount
+2025-12-14 19:36:50,786-INFO-Processing data to mask sensitive information and extract amount
+2025-12-14 19:36:50,786-INFO-Masked sensitive information in the text and extracted amount
+2025-12-14 19:36:50,786-INFO-Processing data to mask sensitive information and extract amount
+2025-12-14 19:36:50,786-INFO-Masked sensitive information in the text and extracted amount
+2025-12-14 19:36:50,786-INFO-Processing data to mask sensitive information and extract amount
+2025-12-14 19:36:50,786-INFO-Masked sensitive information in the text and extracted amount
+2025-12-14 19:36:50,786-INFO-Data Successfully  processed for prediction
+2025-12-14 19:40:27,353-INFO-loading model....
+2025-12-14 19:40:28,166-INFO-model loaded successfully
+2025-12-14 19:40:28,167-INFO-loading model....
+2025-12-14 19:40:28,167-INFO-model loaded
+2025-12-14 19:40:28,167-INFO-data received for prediction
+2025-12-14 19:40:28,167-INFO-converting the text into vector form....
+2025-12-14 19:40:28,169-INFO-Got string input for sms_text
+2025-12-14 19:40:28,170-INFO-Processing data to mask sensitive information and extract amount
+2025-12-14 19:40:28,170-INFO-Masked sensitive information in the text and extracted amount
+2025-12-14 19:40:28,170-INFO-Processing data to mask sensitive information and extract amount
+2025-12-14 19:40:28,171-INFO-Masked sensitive information in the text and extracted amount
+2025-12-14 19:40:28,171-INFO-Processing data to mask sensitive information and extract amount
+2025-12-14 19:40:28,171-INFO-Masked sensitive information in the text and extracted amount
+2025-12-14 19:40:28,171-INFO-Processing data to mask sensitive information and extract amount
+2025-12-14 19:40:28,171-INFO-Masked sensitive information in the text and extracted amount
+2025-12-14 19:40:28,171-INFO-Data Successfully  processed for prediction
+2025-12-14 19:40:28,177-INFO-Prediction time taken: 0.009920120239257812 seconds
+2025-12-14 19:40:28,177-INFO-Prediction successful,prediction: [0],probabilities: [0.87481035]
+2025-12-14 19:40:28,178-INFO-HTTP Request: POST http://testserver/predict "HTTP/1.1 200 OK"
+2025-12-15 16:55:20,189-INFO-Will watch for changes in these directories: ['/Users/vinothkumar/Downloads/Finance_Management_System']
+2025-12-15 16:55:20,190-INFO-Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2025-12-15 16:55:20,191-INFO-Started reloader process [3557] using WatchFiles
+2025-12-15 16:55:20,889-INFO-Started server process [3571]
+2025-12-15 16:55:20,890-INFO-Waiting for application startup.
+2025-12-15 16:55:20,890-INFO-loading model....
+2025-12-15 16:55:22,645-INFO-model loaded successfully
+2025-12-15 16:55:22,645-INFO-Application startup complete.
+2025-12-15 16:55:39,690-INFO-loading model....
+2025-12-15 16:55:39,691-INFO-model loaded
+2025-12-15 16:55:39,691-INFO-data received for prediction
+2025-12-15 16:55:39,691-INFO-converting the text into vector form....
+2025-12-15 16:55:39,691-INFO-Got list of string or file as a input for sms_text
+2025-12-15 16:55:39,695-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 16:55:39,696-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 16:55:39,696-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 16:55:39,697-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 16:55:39,698-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 16:55:39,698-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 16:55:39,698-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 16:55:39,698-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 16:55:39,698-INFO-Data Successfully  processed for prediction
+2025-12-15 16:55:39,708-INFO-Prediction time taken: 0.018543004989624023 seconds
+2025-12-15 16:55:39,709-INFO-Prediction successful,prediction: [2],probabilities: [0.80638291]
+2025-12-15 16:55:47,603-INFO-loading model....
+2025-12-15 16:55:47,604-INFO-model loaded
+2025-12-15 16:55:47,604-INFO-data received for prediction
+2025-12-15 16:55:47,604-INFO-converting the text into vector form....
+2025-12-15 16:55:47,604-INFO-Got list of string or file as a input for sms_text
+2025-12-15 16:55:47,605-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 16:55:47,605-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 16:55:47,605-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 16:55:47,606-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 16:55:47,607-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 16:55:47,607-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 16:55:47,607-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 16:55:47,607-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 16:55:47,607-INFO-Data Successfully  processed for prediction
+2025-12-15 16:55:47,613-INFO-Prediction time taken: 0.00926518440246582 seconds
+2025-12-15 16:55:47,613-INFO-Prediction successful,prediction: [2],probabilities: [0.80638291]
+2025-12-15 16:56:06,460-INFO-1 change detected
+2025-12-15 16:56:06,465-WARNING-WatchFiles detected changes in 'frontend.py'. Reloading...
+2025-12-15 16:56:06,528-INFO-Shutting down
+2025-12-15 16:56:06,633-INFO-Waiting for application shutdown.
+2025-12-15 16:56:06,635-INFO-Application shutdown complete.
+2025-12-15 16:56:06,635-INFO-Finished server process [3571]
+2025-12-15 16:56:07,187-INFO-1 change detected
+2025-12-15 16:56:07,679-INFO-Started server process [3624]
+2025-12-15 16:56:07,680-INFO-Waiting for application startup.
+2025-12-15 16:56:07,680-INFO-loading model....
+2025-12-15 16:56:08,358-INFO-model loaded successfully
+2025-12-15 16:56:08,358-INFO-Application startup complete.
+2025-12-15 16:56:14,410-INFO-loading model....
+2025-12-15 16:56:14,411-INFO-model loaded
+2025-12-15 16:56:14,411-INFO-data received for prediction
+2025-12-15 16:56:14,411-INFO-converting the text into vector form....
+2025-12-15 16:56:14,411-INFO-Got list of string or file as a input for sms_text
+2025-12-15 16:56:14,412-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 16:56:14,412-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 16:56:14,413-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 16:56:14,413-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 16:56:14,413-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 16:56:14,414-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 16:56:14,414-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 16:56:14,414-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 16:56:14,414-INFO-Data Successfully  processed for prediction
+2025-12-15 16:56:14,420-INFO-Prediction time taken: 0.009946823120117188 seconds
+2025-12-15 16:56:14,421-INFO-Prediction successful,prediction: [2],probabilities: [0.80638291]
+2025-12-15 16:56:45,846-INFO-1 change detected
+2025-12-15 16:56:45,848-WARNING-WatchFiles detected changes in 'samp.py'. Reloading...
+2025-12-15 16:56:45,857-INFO-Shutting down
+2025-12-15 16:56:45,959-INFO-Waiting for application shutdown.
+2025-12-15 16:56:45,960-INFO-Application shutdown complete.
+2025-12-15 16:56:45,960-INFO-Finished server process [3624]
+2025-12-15 16:56:46,487-INFO-1 change detected
+2025-12-15 16:56:47,073-INFO-Started server process [3640]
+2025-12-15 16:56:47,074-INFO-Waiting for application startup.
+2025-12-15 16:56:47,074-INFO-loading model....
+2025-12-15 16:56:47,837-INFO-model loaded successfully
+2025-12-15 16:56:47,837-INFO-Application startup complete.
+2025-12-15 17:00:53,076-INFO-loading model....
+2025-12-15 17:00:53,077-INFO-model loaded
+2025-12-15 17:00:53,077-INFO-data received for prediction
+2025-12-15 17:00:53,077-INFO-converting the text into vector form....
+2025-12-15 17:00:53,077-INFO-Got list of string or file as a input for sms_text
+2025-12-15 17:00:53,081-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 17:00:53,082-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 17:00:53,083-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 17:00:53,083-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 17:00:53,085-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 17:00:53,085-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 17:00:53,085-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 17:00:53,085-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 17:00:53,085-INFO-Data Successfully  processed for prediction
+2025-12-15 17:00:53,099-INFO-Prediction time taken: 0.022799015045166016 seconds
+2025-12-15 17:00:53,099-INFO-Prediction successful,prediction: [2],probabilities: [0.80638291]
+2025-12-15 17:01:02,818-INFO-1 change detected
+2025-12-15 17:01:02,821-WARNING-WatchFiles detected changes in 'samp.py'. Reloading...
+2025-12-15 17:01:02,870-INFO-Shutting down
+2025-12-15 17:01:02,972-INFO-Waiting for application shutdown.
+2025-12-15 17:01:02,972-INFO-Application shutdown complete.
+2025-12-15 17:01:02,973-INFO-Finished server process [3640]
+2025-12-15 17:01:03,534-INFO-1 change detected
+2025-12-15 17:01:04,003-INFO-Started server process [3846]
+2025-12-15 17:01:04,003-INFO-Waiting for application startup.
+2025-12-15 17:01:04,004-INFO-loading model....
+2025-12-15 17:01:04,693-INFO-model loaded successfully
+2025-12-15 17:01:04,694-INFO-Application startup complete.
+2025-12-15 17:01:45,984-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 17:01:45,984-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 17:01:46,140-INFO-1 change detected
+2025-12-15 17:02:04,868-INFO-1 change detected
+2025-12-15 17:02:04,868-WARNING-WatchFiles detected changes in 'samp.py'. Reloading...
+2025-12-15 17:02:04,938-INFO-Shutting down
+2025-12-15 17:02:05,041-INFO-Waiting for application shutdown.
+2025-12-15 17:02:05,042-INFO-Application shutdown complete.
+2025-12-15 17:02:05,042-INFO-Finished server process [3846]
+2025-12-15 17:02:05,573-INFO-1 change detected
+2025-12-15 17:02:05,930-INFO-Started server process [4461]
+2025-12-15 17:02:05,931-INFO-Waiting for application startup.
+2025-12-15 17:02:05,931-INFO-loading model....
+2025-12-15 17:02:06,604-INFO-model loaded successfully
+2025-12-15 17:02:06,604-INFO-Application startup complete.
+2025-12-15 17:02:15,955-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 17:02:15,955-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 17:02:16,064-INFO-1 change detected
+2025-12-15 17:03:36,785-INFO-1 change detected
+2025-12-15 17:03:36,787-WARNING-WatchFiles detected changes in 'samp.py'. Reloading...
+2025-12-15 17:03:36,843-INFO-Shutting down
+2025-12-15 17:03:36,948-INFO-Waiting for application shutdown.
+2025-12-15 17:03:36,951-INFO-Application shutdown complete.
+2025-12-15 17:03:36,952-INFO-Finished server process [4461]
+2025-12-15 17:03:37,502-INFO-1 change detected
+2025-12-15 17:03:37,959-INFO-Started server process [4903]
+2025-12-15 17:03:37,959-INFO-Waiting for application startup.
+2025-12-15 17:03:37,960-INFO-loading model....
+2025-12-15 17:03:38,653-INFO-model loaded successfully
+2025-12-15 17:03:38,653-INFO-Application startup complete.
+2025-12-15 17:03:46,225-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 17:03:46,226-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 17:03:46,339-INFO-1 change detected
+2025-12-15 17:04:05,015-INFO-loading model....
+2025-12-15 17:04:05,015-INFO-model loaded
+2025-12-15 17:04:05,015-INFO-data received for prediction
+2025-12-15 17:04:05,015-INFO-converting the text into vector form....
+2025-12-15 17:04:05,016-INFO-Got list of string or file as a input for sms_text
+2025-12-15 17:04:05,017-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 17:04:05,018-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 17:04:05,019-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 17:04:05,019-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 17:04:05,020-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 17:04:05,020-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 17:04:05,020-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 17:04:05,020-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 17:04:05,021-INFO-Data Successfully  processed for prediction
+2025-12-15 17:04:05,028-INFO-Prediction time taken: 0.012832880020141602 seconds
+2025-12-15 17:04:05,028-INFO-Prediction successful,prediction: [2],probabilities: [0.91376364]
+2025-12-15 17:04:15,895-INFO-1 change detected
+2025-12-15 17:04:15,897-WARNING-WatchFiles detected changes in 'samp.py'. Reloading...
+2025-12-15 17:04:15,954-INFO-Shutting down
+2025-12-15 17:04:16,058-INFO-Waiting for application shutdown.
+2025-12-15 17:04:16,060-INFO-Application shutdown complete.
+2025-12-15 17:04:16,062-INFO-Finished server process [4903]
+2025-12-15 17:04:16,600-INFO-1 change detected
+2025-12-15 17:04:17,091-INFO-Started server process [5339]
+2025-12-15 17:04:17,091-INFO-Waiting for application startup.
+2025-12-15 17:04:17,091-INFO-loading model....
+2025-12-15 17:04:17,790-INFO-model loaded successfully
+2025-12-15 17:04:17,791-INFO-Application startup complete.
+2025-12-15 17:04:26,345-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 17:04:26,345-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 17:04:26,432-INFO-1 change detected
+2025-12-15 17:07:58,257-INFO-1 change detected
+2025-12-15 17:07:58,258-WARNING-WatchFiles detected changes in 'samp.py'. Reloading...
+2025-12-15 17:07:58,287-INFO-Shutting down
+2025-12-15 17:07:58,390-INFO-Waiting for application shutdown.
+2025-12-15 17:07:58,390-INFO-Application shutdown complete.
+2025-12-15 17:07:58,391-INFO-Finished server process [5339]
+2025-12-15 17:07:58,923-INFO-1 change detected
+2025-12-15 17:07:59,230-INFO-Started server process [5780]
+2025-12-15 17:07:59,231-INFO-Waiting for application startup.
+2025-12-15 17:07:59,231-INFO-loading model....
+2025-12-15 17:07:59,903-INFO-model loaded successfully
+2025-12-15 17:07:59,903-INFO-Application startup complete.
+2025-12-15 17:16:59,873-INFO-1 change detected
+2025-12-15 17:16:59,882-WARNING-WatchFiles detected changes in 'backend.py'. Reloading...
+2025-12-15 17:16:59,938-INFO-Shutting down
+2025-12-15 17:17:00,052-INFO-Waiting for application shutdown.
+2025-12-15 17:17:00,053-INFO-Application shutdown complete.
+2025-12-15 17:17:00,054-INFO-Finished server process [5780]
+2025-12-15 17:17:00,698-INFO-1 change detected
+2025-12-15 17:17:01,062-INFO-3 changes detected
+2025-12-15 17:17:01,451-INFO-Started server process [5920]
+2025-12-15 17:17:01,452-INFO-Waiting for application startup.
+2025-12-15 17:17:01,452-INFO-loading model....
+2025-12-15 17:17:02,277-INFO-model loaded successfully
+2025-12-15 17:17:02,278-INFO-Application startup complete.
+2025-12-15 17:19:48,445-INFO-1 change detected
+2025-12-15 17:19:48,448-WARNING-WatchFiles detected changes in 'frontend.py'. Reloading...
+2025-12-15 17:19:48,500-INFO-Shutting down
+2025-12-15 17:19:48,605-INFO-Waiting for application shutdown.
+2025-12-15 17:19:48,613-INFO-Application shutdown complete.
+2025-12-15 17:19:48,614-INFO-Finished server process [5920]
+2025-12-15 17:19:49,211-INFO-1 change detected
+2025-12-15 17:19:49,718-INFO-Started server process [5954]
+2025-12-15 17:19:49,719-INFO-Waiting for application startup.
+2025-12-15 17:19:49,719-INFO-loading model....
+2025-12-15 17:19:50,448-INFO-model loaded successfully
+2025-12-15 17:19:50,449-INFO-Application startup complete.
+2025-12-15 17:20:53,773-INFO-1 change detected
+2025-12-15 17:20:53,777-WARNING-WatchFiles detected changes in 'frontend.py'. Reloading...
+2025-12-15 17:20:53,845-INFO-Shutting down
+2025-12-15 17:20:53,954-INFO-Waiting for application shutdown.
+2025-12-15 17:20:53,957-INFO-Application shutdown complete.
+2025-12-15 17:20:53,958-INFO-Finished server process [5954]
+2025-12-15 17:20:54,610-INFO-1 change detected
+2025-12-15 17:20:55,314-INFO-Started server process [5998]
+2025-12-15 17:20:55,315-INFO-Waiting for application startup.
+2025-12-15 17:20:55,315-INFO-loading model....
+2025-12-15 17:20:56,107-INFO-model loaded successfully
+2025-12-15 17:20:56,107-INFO-Application startup complete.
+2025-12-15 17:23:22,570-INFO-1 change detected
+2025-12-15 17:23:22,574-WARNING-WatchFiles detected changes in 'frontend.py'. Reloading...
+2025-12-15 17:23:22,579-INFO-Shutting down
+2025-12-15 17:23:22,689-INFO-Waiting for application shutdown.
+2025-12-15 17:23:22,691-INFO-Application shutdown complete.
+2025-12-15 17:23:22,692-INFO-Finished server process [5998]
+2025-12-15 17:23:23,308-INFO-1 change detected
+2025-12-15 17:23:23,845-INFO-Started server process [6074]
+2025-12-15 17:23:23,846-INFO-Waiting for application startup.
+2025-12-15 17:23:23,846-INFO-loading model....
+2025-12-15 17:23:24,542-INFO-model loaded successfully
+2025-12-15 17:23:24,542-INFO-Application startup complete.
+2025-12-15 17:23:44,958-INFO-1 change detected
+2025-12-15 17:23:44,962-WARNING-WatchFiles detected changes in 'frontend.py'. Reloading...
+2025-12-15 17:23:45,060-INFO-Shutting down
+2025-12-15 17:23:45,163-INFO-Waiting for application shutdown.
+2025-12-15 17:23:45,164-INFO-Application shutdown complete.
+2025-12-15 17:23:45,164-INFO-Finished server process [6074]
+2025-12-15 17:23:45,706-INFO-1 change detected
+2025-12-15 17:23:46,151-INFO-Started server process [6088]
+2025-12-15 17:23:46,151-INFO-Waiting for application startup.
+2025-12-15 17:23:46,152-INFO-loading model....
+2025-12-15 17:23:46,819-INFO-model loaded successfully
+2025-12-15 17:23:46,819-INFO-Application startup complete.
+2025-12-15 17:49:23,990-INFO-loading model....
+2025-12-15 17:49:23,992-INFO-model loaded
+2025-12-15 17:49:23,992-INFO-data received for prediction
+2025-12-15 17:49:23,992-INFO-converting the text into vector form....
+2025-12-15 17:49:23,992-INFO-Got list of string or file as a input for sms_text
+2025-12-15 17:49:24,008-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 17:49:24,009-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 17:49:24,009-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 17:49:24,009-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 17:49:24,012-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 17:49:24,012-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 17:49:24,012-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 17:49:24,012-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 17:49:24,013-INFO-Data Successfully  processed for prediction
+2025-12-15 17:49:24,030-INFO-Prediction time taken: 0.03997302055358887 seconds
+2025-12-15 17:49:24,031-INFO-Prediction successful,prediction: [1],probabilities: [0.70275021]
+2025-12-15 17:50:52,399-INFO-1 change detected
+2025-12-15 17:50:52,407-WARNING-WatchFiles detected changes in 'frontend.py'. Reloading...
+2025-12-15 17:50:52,480-INFO-Shutting down
+2025-12-15 17:50:52,596-INFO-Waiting for application shutdown.
+2025-12-15 17:50:52,598-INFO-Application shutdown complete.
+2025-12-15 17:50:52,599-INFO-Finished server process [6088]
+2025-12-15 17:50:53,259-INFO-1 change detected
+2025-12-15 17:50:54,022-INFO-Started server process [6456]
+2025-12-15 17:50:54,022-INFO-Waiting for application startup.
+2025-12-15 17:50:54,023-INFO-loading model....
+2025-12-15 17:50:54,878-INFO-model loaded successfully
+2025-12-15 17:50:54,878-INFO-Application startup complete.
+2025-12-15 17:51:33,502-INFO-1 change detected
+2025-12-15 17:51:33,507-WARNING-WatchFiles detected changes in 'backend.py'. Reloading...
+2025-12-15 17:51:33,600-INFO-Shutting down
+2025-12-15 17:51:33,711-INFO-Waiting for application shutdown.
+2025-12-15 17:51:33,714-INFO-Application shutdown complete.
+2025-12-15 17:51:33,715-INFO-Finished server process [6456]
+2025-12-15 17:51:34,283-INFO-1 change detected
+2025-12-15 17:51:34,641-INFO-3 changes detected
+2025-12-15 17:51:34,883-INFO-Started server process [6470]
+2025-12-15 17:51:34,884-INFO-Waiting for application startup.
+2025-12-15 17:51:34,884-INFO-loading model....
+2025-12-15 17:51:35,641-INFO-model loaded successfully
+2025-12-15 17:51:35,641-INFO-Application startup complete.
+2025-12-15 17:55:42,481-INFO-1 change detected
+2025-12-15 17:55:42,488-WARNING-WatchFiles detected changes in 'frontend.py'. Reloading...
+2025-12-15 17:55:42,497-INFO-Shutting down
+2025-12-15 17:55:42,609-INFO-Waiting for application shutdown.
+2025-12-15 17:55:42,611-INFO-Application shutdown complete.
+2025-12-15 17:55:42,612-INFO-Finished server process [6470]
+2025-12-15 17:55:43,206-INFO-1 change detected
+2025-12-15 17:55:45,719-INFO-Started server process [6516]
+2025-12-15 17:55:45,719-INFO-Waiting for application startup.
+2025-12-15 17:55:45,720-INFO-loading model....
+2025-12-15 17:55:47,297-INFO-model loaded successfully
+2025-12-15 17:55:47,298-INFO-Application startup complete.
+2025-12-15 17:55:47,303-INFO-loading model....
+2025-12-15 17:55:47,303-INFO-model loaded
+2025-12-15 17:55:47,303-INFO-data received for prediction
+2025-12-15 17:55:47,303-INFO-converting the text into vector form....
+2025-12-15 17:55:47,303-INFO-Got list of string or file as a input for sms_text
+2025-12-15 17:55:47,320-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 17:55:47,320-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 17:55:47,320-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 17:55:47,320-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 17:55:47,322-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 17:55:47,322-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 17:55:47,322-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 17:55:47,322-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 17:55:47,322-INFO-Data Successfully  processed for prediction
+2025-12-15 17:55:47,345-INFO-Prediction time taken: 0.04118680953979492 seconds
+2025-12-15 17:55:47,345-INFO-Prediction successful,prediction: [1],probabilities: [0.70275021]
+2025-12-15 17:55:50,708-INFO-loading model....
+2025-12-15 17:55:50,708-INFO-model loaded
+2025-12-15 17:55:50,708-INFO-data received for prediction
+2025-12-15 17:55:50,708-INFO-converting the text into vector form....
+2025-12-15 17:55:50,708-INFO-Got list of string or file as a input for sms_text
+2025-12-15 17:55:50,710-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 17:55:50,710-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 17:55:50,710-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 17:55:50,710-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 17:55:50,711-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 17:55:50,712-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 17:55:50,712-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 17:55:50,712-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 17:55:50,712-INFO-Data Successfully  processed for prediction
+2025-12-15 17:55:50,718-INFO-Prediction time taken: 0.010033845901489258 seconds
+2025-12-15 17:55:50,718-INFO-Prediction successful,prediction: [1],probabilities: [0.70275021]
+2025-12-15 17:56:00,198-INFO-loading model....
+2025-12-15 17:56:00,199-INFO-model loaded
+2025-12-15 17:56:00,199-INFO-data received for prediction
+2025-12-15 17:56:00,200-INFO-converting the text into vector form....
+2025-12-15 17:56:00,200-INFO-Got list of string or file as a input for sms_text
+2025-12-15 17:56:00,200-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 17:56:00,200-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 17:56:00,200-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 17:56:00,200-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 17:56:00,201-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 17:56:00,201-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 17:56:00,202-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 17:56:00,202-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 17:56:00,202-INFO-Data Successfully  processed for prediction
+2025-12-15 17:56:00,209-INFO-Prediction time taken: 0.010601997375488281 seconds
+2025-12-15 17:56:00,210-INFO-Prediction successful,prediction: [1],probabilities: [0.70275021]
+2025-12-15 17:57:45,100-INFO-1 change detected
+2025-12-15 17:57:45,103-WARNING-WatchFiles detected changes in 'backend.py'. Reloading...
+2025-12-15 17:57:45,183-INFO-Shutting down
+2025-12-15 17:57:45,289-INFO-Waiting for application shutdown.
+2025-12-15 17:57:45,291-INFO-Application shutdown complete.
+2025-12-15 17:57:45,291-INFO-Finished server process [6516]
+2025-12-15 17:57:45,865-INFO-1 change detected
+2025-12-15 17:57:46,229-INFO-3 changes detected
+2025-12-15 17:57:46,401-INFO-Started server process [6544]
+2025-12-15 17:57:46,402-INFO-Waiting for application startup.
+2025-12-15 17:57:46,402-INFO-loading model....
+2025-12-15 17:57:47,129-INFO-model loaded successfully
+2025-12-15 17:57:47,129-INFO-Application startup complete.
+2025-12-15 17:57:55,731-INFO-Shutting down
+2025-12-15 17:57:55,835-INFO-Waiting for application shutdown.
+2025-12-15 17:57:55,838-INFO-Application shutdown complete.
+2025-12-15 17:57:55,839-INFO-Finished server process [6544]
+2025-12-15 17:57:56,014-INFO-Stopping reloader process [3557]
+2025-12-15 17:57:58,346-INFO-Will watch for changes in these directories: ['/Users/vinothkumar/Downloads/Finance_Management_System']
+2025-12-15 17:57:58,347-INFO-Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2025-12-15 17:57:58,347-INFO-Started reloader process [6555] using WatchFiles
+2025-12-15 17:57:59,001-INFO-Started server process [6558]
+2025-12-15 17:57:59,001-INFO-Waiting for application startup.
+2025-12-15 17:57:59,002-INFO-loading model....
+2025-12-15 17:57:59,662-INFO-model loaded successfully
+2025-12-15 17:57:59,663-INFO-Application startup complete.
+2025-12-15 17:58:15,763-INFO-loading model....
+2025-12-15 17:58:15,769-INFO-model loaded
+2025-12-15 17:58:15,771-INFO-data received for prediction
+2025-12-15 17:58:15,771-INFO-converting the text into vector form....
+2025-12-15 17:58:15,779-INFO-Got string input for sms_text
+2025-12-15 17:58:15,788-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 17:58:15,790-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 17:58:15,791-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 17:58:15,791-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 17:58:15,793-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 17:58:15,793-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 17:58:15,793-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 17:58:15,793-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 17:58:15,793-INFO-Data Successfully  processed for prediction
+2025-12-15 17:58:15,813-INFO-Prediction time taken: 0.05046892166137695 seconds
+2025-12-15 17:58:15,814-INFO-Prediction successful,prediction: [1],probabilities: [0.70275021]
+2025-12-15 17:58:31,725-INFO-loading model....
+2025-12-15 17:58:31,725-INFO-model loaded
+2025-12-15 17:58:31,725-INFO-data received for prediction
+2025-12-15 17:58:31,725-INFO-converting the text into vector form....
+2025-12-15 17:58:31,726-INFO-Got string input for sms_text
+2025-12-15 17:58:31,727-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 17:58:31,727-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 17:58:31,727-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 17:58:31,727-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 17:58:31,728-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 17:58:31,728-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 17:58:31,728-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 17:58:31,728-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 17:58:31,729-INFO-Data Successfully  processed for prediction
+2025-12-15 17:58:31,734-INFO-Prediction time taken: 0.009423971176147461 seconds
+2025-12-15 17:58:31,735-INFO-Prediction successful,prediction: [1],probabilities: [0.70275021]
+2025-12-15 17:58:37,115-INFO-loading model....
+2025-12-15 17:58:37,115-INFO-model loaded
+2025-12-15 17:58:37,115-INFO-data received for prediction
+2025-12-15 17:58:37,115-INFO-converting the text into vector form....
+2025-12-15 17:58:37,115-INFO-Got string input for sms_text
+2025-12-15 17:58:37,116-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 17:58:37,116-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 17:58:37,116-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 17:58:37,116-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 17:58:37,117-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 17:58:37,117-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 17:58:37,117-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 17:58:37,117-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 17:58:37,117-INFO-Data Successfully  processed for prediction
+2025-12-15 17:58:37,124-INFO-Prediction time taken: 0.00951075553894043 seconds
+2025-12-15 17:58:37,125-INFO-Prediction successful,prediction: [1],probabilities: [0.70275021]
+2025-12-15 17:58:48,650-INFO-loading model....
+2025-12-15 17:58:48,650-INFO-model loaded
+2025-12-15 17:58:48,651-INFO-data received for prediction
+2025-12-15 17:58:48,651-INFO-converting the text into vector form....
+2025-12-15 17:58:48,651-INFO-Got string input for sms_text
+2025-12-15 17:58:48,651-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 17:58:48,652-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 17:58:48,652-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 17:58:48,652-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 17:58:48,653-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 17:58:48,653-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 17:58:48,654-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 17:58:48,654-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 17:58:48,655-INFO-Data Successfully  processed for prediction
+2025-12-15 17:58:48,661-INFO-Prediction time taken: 0.010298013687133789 seconds
+2025-12-15 17:58:48,661-INFO-Prediction successful,prediction: [1],probabilities: [0.42609398]
+2025-12-15 18:00:48,087-INFO-Shutting down
+2025-12-15 18:00:48,192-INFO-Waiting for application shutdown.
+2025-12-15 18:00:48,194-INFO-Application shutdown complete.
+2025-12-15 18:00:48,195-INFO-Finished server process [6558]
+2025-12-15 18:00:48,387-INFO-Stopping reloader process [6555]
+2025-12-15 18:22:27,185-INFO-Will watch for changes in these directories: ['/Users/vinothkumar/Downloads/Finance_Management_System']
+2025-12-15 18:22:27,186-INFO-Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2025-12-15 18:22:27,186-INFO-Started reloader process [7081] using WatchFiles
+2025-12-15 18:22:27,846-INFO-Started server process [7084]
+2025-12-15 18:22:27,847-INFO-Waiting for application startup.
+2025-12-15 18:22:27,847-INFO-loading model....
+2025-12-15 18:22:28,677-INFO-model loaded successfully
+2025-12-15 18:22:28,677-INFO-Application startup complete.
+2025-12-15 18:22:39,044-INFO-loading model....
+2025-12-15 18:22:39,045-INFO-model loaded
+2025-12-15 18:22:39,045-INFO-data received for prediction
+2025-12-15 18:22:39,045-INFO-converting the text into vector form....
+2025-12-15 18:22:39,045-INFO-Got string input for sms_text
+2025-12-15 18:22:39,046-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 18:22:39,046-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 18:22:39,047-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 18:22:39,047-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 18:22:39,047-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 18:22:39,048-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 18:22:39,048-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 18:22:39,048-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 18:22:39,048-INFO-Data Successfully  processed for prediction
+2025-12-15 18:22:39,055-INFO-Prediction time taken: 0.01040506362915039 seconds
+2025-12-15 18:22:39,055-INFO-Prediction successful,prediction: [1],probabilities: [0.70275021]
+2025-12-15 18:22:58,507-INFO-1 change detected
+2025-12-15 18:22:58,511-WARNING-WatchFiles detected changes in 'frontend.py'. Reloading...
+2025-12-15 18:22:58,608-INFO-Shutting down
+2025-12-15 18:22:58,711-INFO-Waiting for application shutdown.
+2025-12-15 18:22:58,712-INFO-Application shutdown complete.
+2025-12-15 18:22:58,713-INFO-Finished server process [7084]
+2025-12-15 18:22:59,260-INFO-1 change detected
+2025-12-15 18:22:59,751-INFO-Started server process [7101]
+2025-12-15 18:22:59,752-INFO-Waiting for application startup.
+2025-12-15 18:22:59,752-INFO-loading model....
+2025-12-15 18:23:00,466-INFO-model loaded successfully
+2025-12-15 18:23:00,466-INFO-Application startup complete.
+2025-12-15 18:23:04,186-INFO-loading model....
+2025-12-15 18:23:04,186-INFO-model loaded
+2025-12-15 18:23:04,186-INFO-data received for prediction
+2025-12-15 18:23:04,186-INFO-converting the text into vector form....
+2025-12-15 18:23:04,187-INFO-Got string input for sms_text
+2025-12-15 18:23:04,188-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 18:23:04,188-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 18:23:04,188-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 18:23:04,188-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 18:23:04,189-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 18:23:04,189-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 18:23:04,189-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 18:23:04,189-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 18:23:04,190-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 18:23:04,190-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 18:23:04,190-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 18:23:04,190-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 18:23:04,190-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 18:23:04,190-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 18:23:04,190-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 18:23:04,190-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 18:23:04,191-INFO-Data Successfully  processed for prediction
+2025-12-15 18:23:04,196-INFO-Prediction time taken: 0.010338068008422852 seconds
+2025-12-15 18:23:04,197-INFO-Prediction successful,prediction: [1 1],probabilities: [0.70275021 0.70275021]
+2025-12-15 18:23:32,982-INFO-loading model....
+2025-12-15 18:23:32,983-INFO-model loaded
+2025-12-15 18:23:32,983-INFO-data received for prediction
+2025-12-15 18:23:32,984-INFO-converting the text into vector form....
+2025-12-15 18:23:32,985-INFO-Got string input for sms_text
+2025-12-15 18:23:32,986-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 18:23:32,986-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 18:23:32,986-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 18:23:32,986-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 18:23:32,986-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 18:23:32,986-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 18:23:32,986-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 18:23:32,987-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 18:23:32,987-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 18:23:32,988-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 18:23:32,988-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 18:23:32,988-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 18:23:32,988-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 18:23:32,988-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 18:23:32,988-INFO-Processing data to mask sensitive information and extract amount
+2025-12-15 18:23:32,988-INFO-Masked sensitive information in the text and extracted amount
+2025-12-15 18:23:32,989-INFO-Data Successfully  processed for prediction
+2025-12-15 18:23:32,996-INFO-Prediction time taken: 0.013534069061279297 seconds
+2025-12-15 18:23:32,996-INFO-Prediction successful,prediction: [1 2],probabilities: [0.76567459 0.91376364]
+2025-12-15 18:23:40,115-INFO-1 change detected
+2025-12-15 18:23:40,117-WARNING-WatchFiles detected changes in 'frontend.py'. Reloading...
+2025-12-15 18:23:40,208-INFO-Shutting down
+2025-12-15 18:23:40,312-INFO-Waiting for application shutdown.
+2025-12-15 18:23:40,315-INFO-Application shutdown complete.
+2025-12-15 18:23:40,316-INFO-Finished server process [7101]
+2025-12-15 18:23:40,888-INFO-1 change detected
+2025-12-15 18:23:41,389-INFO-Started server process [7116]
+2025-12-15 18:23:41,390-INFO-Waiting for application startup.
+2025-12-15 18:23:41,390-INFO-loading model....
+2025-12-15 18:23:42,071-INFO-model loaded successfully
+2025-12-15 18:23:42,071-INFO-Application startup complete.
+2025-12-15 18:26:35,947-INFO-1 change detected
+2025-12-15 18:26:35,949-WARNING-WatchFiles detected changes in 'frontend.py'. Reloading...
+2025-12-15 18:26:35,984-INFO-Shutting down
+2025-12-15 18:26:36,087-INFO-Waiting for application shutdown.
+2025-12-15 18:26:36,090-INFO-Application shutdown complete.
+2025-12-15 18:26:36,091-INFO-Finished server process [7116]
+2025-12-15 18:26:36,632-INFO-1 change detected
+2025-12-15 18:26:37,120-INFO-Started server process [7136]
+2025-12-15 18:26:37,121-INFO-Waiting for application startup.
+2025-12-15 18:26:37,121-INFO-loading model....
+2025-12-15 18:26:37,833-INFO-model loaded successfully
+2025-12-15 18:26:37,833-INFO-Application startup complete.
+2025-12-15 18:27:34,133-INFO-1 change detected
+2025-12-15 18:27:34,137-WARNING-WatchFiles detected changes in 'frontend.py'. Reloading...
+2025-12-15 18:27:34,147-INFO-Shutting down
+2025-12-15 18:27:34,254-INFO-Waiting for application shutdown.
+2025-12-15 18:27:34,256-INFO-Application shutdown complete.
+2025-12-15 18:27:34,257-INFO-Finished server process [7136]
+2025-12-15 18:27:34,811-INFO-1 change detected
+2025-12-15 18:27:35,312-INFO-Started server process [7247]
+2025-12-15 18:27:35,313-INFO-Waiting for application startup.
+2025-12-15 18:27:35,313-INFO-loading model....
+2025-12-15 18:27:36,005-INFO-model loaded successfully
+2025-12-15 18:27:36,005-INFO-Application startup complete.
+2025-12-15 18:27:37,722-INFO-Shutting down
+2025-12-15 18:27:37,825-INFO-Waiting for application shutdown.
+2025-12-15 18:27:37,827-INFO-Application shutdown complete.
+2025-12-15 18:27:37,828-INFO-Finished server process [7247]
+2025-12-15 18:27:37,995-INFO-Stopping reloader process [7081]
