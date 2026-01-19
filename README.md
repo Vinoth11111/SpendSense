@@ -43,7 +43,7 @@ A custom **Regex-based masking layer** identifies and replaces sensitive account
 
 ---
 
-### 📐 Schema-Governed API (Contract-Based)
+### Schema-Governed API (Contract-Based)
 Utilizes **Pydantic models** to enforce strict data constraints at the API boundary.  
 Malformed requests are rejected immediately, preserving compute resources and guaranteeing data integrity.
 
@@ -67,6 +67,7 @@ This enables automated auditing and ML-driven financial insights.
 
 ## Architecture
 
+(./SpendSense_Arch_Diagram.png)
 The system follows a **stateless, serverless-first design** to minimize operational overhead while maintaining high performance.
 
 - **Frontend (Streamlit)**  
