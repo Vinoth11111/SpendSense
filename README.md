@@ -1,77 +1,145 @@
 # SpendSense: Cloud-Native Personal Finance API
 
+![Python](https://img.shields.io/badge/Python-3.11.5%2B-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-ECS%20%7C%20Fargate-232F3E?style=flat&logo=amazon-aws)
 ![Status](https://img.shields.io/badge/Status-Deployed-success)
 
-> **Quick Summary:** SpendSense is a production-ready personal finance tracking API designed to centralize and structure financial data. Built with a focus on **high performance** and **cloud-native scalability**, it utilizes a containerized architecture deployed on AWS to ensure data persistence and reliability.
+
+## Quick Summary
+**SpendSense** is a production-ready API designed to centralize and structure financial data for machine learning workflows.  
+Built with a strong emphasis on **data integrity, privacy, and scalability**, it transforms raw SMS transaction alerts into clean, categorized financial intelligence using a containerized, cloud-native architecture.
 
 ---
 
-## 🚀 Project Overview
+## The Problem: Challenges in Financial Data Engineering
 
-Managing personal finances often involves messy spreadsheets or fragmented apps. **SpendSense** solves this by providing a robust, schema-governed backend that allows users to programmatically track transactions, categorize expenses, and monitor budgets.
+Building a reliable expense tracking system is difficult because raw financial data is often:
 
-From a Machine Learning perspective, this project serves as the **Data Engineering Foundation**: providing the clean, structured, and historical data necessary for future predictive features like spending forecasts or anomaly detection.
+- **Unstructured & Fragmented**  
+  Transaction alerts arrive as noisy SMS strings, making them incompatible with standard analytical pipelines.
 
-**Key Objectives:**
-* **Scalable Infrastructure:** Moving beyond "local scripts" to a fully containerized cloud environment.
-* **Data Integrity:** Implementing a relational PostgreSQL schema to ensure financial records remain consistent and ACID-compliant.
-* **Production Standards:** Using FastAPI for asynchronous request handling and Docker for environment parity between development and production.
+- **Security-Sensitive**  
+  Raw logs frequently contain PII (Personally Identifiable Information) such as account numbers, creating significant privacy and compliance risks if processed naively.
 
----
-
-## 🏗️ Architecture
-
-The system follows a "Serverless-First" architecture, reducing operational overhead while maintaining high performance.
-
-1.  **API Layer:** FastAPI serves as the gateway, handling asynchronous CRUD operations for transactions and user budgets.
-2.  **Database Layer:** A PostgreSQL instance stores relational data, ensuring complex queries (like monthly spending aggregations) are efficient.
-3.  **Containerization:** The entire application is containerized using **Docker**, ensuring the app runs identically on local machines and the cloud.
-4.  **Cloud Deployment:** Hosted on **AWS ECS (Elastic Container Service)** using **AWS Fargate**, providing a serverless execution environment that scales without managing EC2 instances.
+- **Prone to Data Drift**  
+  Without strict validation, inconsistent inputs lead to *“Garbage In, Garbage Out”*, degrading model reliability and downstream ML performance.
 
 ---
 
-## 🛠️ Technical Stack & Decisions
+## The Solution: SpendSense
 
-I chose this stack to demonstrate a "Full-Cycle" engineering mindset—owning the code from the first line of Python to the final AWS deployment.
+SpendSense acts as a **secure, schema-governed gateway** between raw financial text and actionable intelligence.
 
-| Component | Tool Used | Why this choice? |
-| :--- | :--- | :--- |
-| **Backend Framework** | `FastAPI` | High performance (Starlette-based) and automatic Pydantic validation for sensitive financial data. |
-| **Database** | `PostgreSQL` | Required for relational integrity. Financial data needs strict schemas to prevent data loss or type errors. |
-| **Containerization** | `Docker` | Eliminates "it works on my machine" issues and allows for seamless cloud integration. |
-| **Cloud Provider** | `AWS (ECS/Fargate)` | Chosen to demonstrate proficiency in modern DevOps/MLOps workflows and serverless container orchestration. |
+The system enforces **data quality, privacy, and validation** before any information reaches the machine learning inference layer.
 
 ---
 
-## 📈 Future ML Roadmap (The "Engineer" Vision)
+## Key Engineering Highlights
 
-To bridge this project into a Machine Learning context, the following modules are planned:
-
-* **Expense Categorization (NLP):** Using a lightweight transformer model to automatically categorize transactions based on raw merchant descriptions.
-* **Spending Forecasting:** Implementing a Time-Series model (like Prophet or LSTM) to predict next month's expenses based on historical patterns.
-* **Anomaly Detection:** An Isolation Forest model to alert users of unusual or fraudulent spending spikes.
+### PII Anonymization Engine
+A custom **Regex-based masking layer** identifies and replaces sensitive account identifiers with generic tokens, ensuring downstream ML models never process private user data.
 
 ---
 
-## 🛠️ How to Run Locally
+### 📐 Schema-Governed API (Contract-Based)
+Utilizes **Pydantic models** to enforce strict data constraints at the API boundary.  
+Malformed requests are rejected immediately, preserving compute resources and guaranteeing data integrity.
+
+---
+
+### Async & Scalable Architecture
+Built on **FastAPI’s asynchronous request handling**, enabling high-throughput batch processing without blocking.  
+The entire stack is **fully Dockerized**, ensuring environment parity from local development to AWS Fargate.
+
+---
+
+### Integrated ML Inference
+Serves a serialized **Scikit-learn classification pipeline** that performs:
+- Real-time feature extraction  
+- Expense categorization  
+- Confidence probability scoring  
+
+This enables automated auditing and ML-driven financial insights.
+
+---
+
+## Architecture
+
+The system follows a **stateless, serverless-first design** to minimize operational overhead while maintaining high performance.
+
+- **Frontend (Streamlit)**  
+  User-facing interface for uploading CSV/TXT files or entering transaction text manually.
+
+- **API Gateway (FastAPI)**  
+  Validates incoming payloads and asynchronously routes requests to processing logic.
+
+- **Data Processing Layer**  
+  Custom pipeline handling Regex-based PII masking and feature engineering (e.g., amount extraction).
+
+- **Inference Engine**  
+  Loads a pre-trained full classification pipeline via **Joblib** to predict spending categories (Food, Travel, Bills, etc.).
+
+- **Deployment**  
+  Containerized with **Docker** and hosted on **AWS ECS/Fargate** for scalable, serverless execution.
+
+---
+
+## Technical Stack & Design Decisions
+
+| Component | Tool Used | Rationale |
+|---------|----------|-----------|
+| Backend Framework | FastAPI | High performance (Starlette-based) with native Pydantic support for schema validation |
+| Frontend UI | Streamlit | Rapid prototyping and real-time visualization of predictions |
+| ML Inference | Scikit-learn | Predictable latency, robustness, and production-friendly pipelines |
+| Containerization | Docker | Eliminates environment inconsistencies and enables cloud portability |
+| Cloud Infrastructure | AWS ECS/Fargate | Demonstrates MLOps proficiency with serverless container orchestration |
+
+---
+
+## Future ML Roadmap
+
+Planned enhancements to evolve SpendSense into a full financial intelligence platform:
+
+- **Advanced NLP Categorization**  
+  Transition to Transformer-based models (BERT / DistilBERT) for richer merchant text understanding.
+
+- **Spending Forecasting**  
+  Implement time-series models (Prophet, LSTM) to predict monthly budget variance.
+
+- **Persistence Layer**  
+  Integrate **PostgreSQL** to enable historical trend analysis and long-term behavioral insights.
+
+---
+
+## How to Run Locally
 
 ### 1. Prerequisites
-* Docker & Docker Compose installed.
-* Python 3.10+ (if running without Docker).
+- Docker & Docker Compose  
+- Python 3.10+ (if running without Docker)
+
+---
 
 ### 2. Setup & Installation
+
 ```bash
 # Clone the repository
-git clone [https://github.com/](https://github.com/)[YourUsername]/SpendSense.git
+git clone https://github.com/Vinoth11111/SpendSense.git
 cd SpendSense
 
-# Create environment variables
-touch .env
+# Give execution permission to the start script
+chmod +x start.sh
+
+```
 ### 3. Launch with Docker
-'''bash
+Option A: Using Docker (Recommended)
+
+```bash
 docker-compose up --build
-The API will be available at http://localhost:8000 and the interactive Swagger documentation at http://localhost:8000/docs.
+```
+Option B: Manual Execution
+```bash
+./start.sh
+```
+The SpendSense will be available at http://localhost:8501 and the interactive Swagger documentation at http://localhost:8000/docs
