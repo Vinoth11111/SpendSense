@@ -67,7 +67,7 @@ This enables automated auditing and ML-driven financial insights.
 
 ## Architecture
 
-![Architecture Diagram](./SpendSense_Arch_Diagram.png)
+![Architecture Diagram](./SpendSense_Architecture.png)
 
 The system follows a **stateless, serverless-first design** to minimize operational overhead while maintaining high performance.
 
